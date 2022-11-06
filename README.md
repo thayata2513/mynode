@@ -1,0 +1,2 @@
+# mynode
+about my node 
